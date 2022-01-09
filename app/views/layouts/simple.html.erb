@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <title>TodoApp</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body class="container container-sm">
+  <%#="Hello its me sandro "%>
+<!--  <p><%#= link_to 'categories',categories_path %></p>-->
+<!--  <p><%#= link_to 'users',users_path %></p>-->
+  <%= yield %>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+=> [32m#<SendEmailJob:0x0000000004c3d7b0[0m
+ @arguments[32m=[0m[[32m#<User:0x0000000003209f38[0m id: [1;34m28[0m, email: [31m[1;31m"[0m[31msandro.shav@gmail.ru[1;31m"[0m[31m[0m, username: [31m[1;31m"[0m[31mss[1;31m"[0m[31m[0m, pin: [31m[1;31m"[0m[31m11111111110[1;31m"[0m[31m[0m, country_id: [1;34m2[0m, city_id: [1;34m6[0m, terms_of_use: [1;36mtrue[0m[32m>[0m],
+ @exception_executions[32m=[0m{},
+ @executions[32m=[0m[1;34m0[0m,
+ @job_id[32m=[0m[31m[1;31m"[0m[31m7546907e-d49c-4be4-b37d-7acfd074c38d[1;31m"[0m[31m[0m,
+ @priority[32m=[0m[1;36mnil[0m,
+ @provider_job_id[32m=[0m[31m[1;31m"[0m[31m03f99817f479f61ec2270038[1;31m"[0m[31m[0m,
+ @queue_name[32m=[0m[31m[1;31m"[0m[31musers[1;31m"[0m[31m[0m,
+ @scheduled_at[32m=[0m[1;35m60.0[0m,
+ @timezone[32m=[0m[31m[1;31m"[0m[31mUTC[1;31m"[0m[31m[0m[32m>[0m
